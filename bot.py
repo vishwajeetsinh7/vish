@@ -37,7 +37,7 @@ def getMessage():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url='https://floating-cliffs-96478.herokuapp.com/ ' + 1813474286:AAFeptrH4_olk2uNP8eN9b5mK-bAb56CEF0)
+    bot.set_webhook(url='https://gentle-harbor-10497.herokuapp.com/ ' + 1813474286:AAFeptrH4_olk2uNP8eN9b5mK-bAb56CEF0)
     return "!", 200
 
 
