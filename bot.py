@@ -139,7 +139,7 @@ def echo(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     """Run the bot."""
-    updater = Updater("1813474286:AAFeptrH4_olk2uNP8eN9b5mK-bAb56CEF0")
+    updater = Updater("fadsfasdkfjds enter token nu 2")
 
     dispatcher = updater.dispatcher
     dispatcher.add_handler(CommandHandler("help", help_command))
